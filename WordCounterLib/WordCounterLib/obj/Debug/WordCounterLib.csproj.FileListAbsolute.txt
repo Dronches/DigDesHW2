@@ -1,0 +1,6 @@
+D:\Projects\7_semestr\Digital Design\Introtuction\WordCounterLib\WordCounterLib\bin\Debug\WordCounterLib.dll
+D:\Projects\7_semestr\Digital Design\Introtuction\WordCounterLib\WordCounterLib\bin\Debug\WordCounterLib.pdb
+D:\Projects\7_semestr\Digital Design\Introtuction\WordCounterLib\WordCounterLib\obj\Debug\WordCounterLib.csproj.CoreCompileInputs.cache
+D:\Projects\7_semestr\Digital Design\Introtuction\WordCounterLib\WordCounterLib\obj\Debug\WordCounterLib.dll
+D:\Projects\7_semestr\Digital Design\Introtuction\WordCounterLib\WordCounterLib\obj\Debug\WordCounterLib.pdb
+D:\Projects\7_semestr\Digital Design\Introtuction\WordCounterLib\WordCounterLib\obj\Debug\WordCounterLib.csproj.AssemblyReference.cache
